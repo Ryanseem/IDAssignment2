@@ -1,4 +1,4 @@
-# The Food locator website
+# The Weather detector website
 
 For this project,I decide to make weather detector website. In this website, I will be using Openweathermap api to gather weather data and display the result of location input.
 
